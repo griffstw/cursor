@@ -1,0 +1,21 @@
+Document Summary Report
+==================================================
+
+File: sample_document.txt
+Processed: 2025-08-27T16:49:34.680685
+Method: extractive
+
+Statistics:
+  Original length: 274 words
+  Summary length: 85 words
+  Compression ratio: 31.0%
+
+Summary:
+The Impact of Artificial Intelligence on Modern Society Artificial Intelligence (AI) has emerged as one of the most significant technological advances of the 21st century, fundamentally transforming how we work, communicate, and solve complex problems. This revolutionary technology encompasses machine learning, deep learning, natural language processing, and computer vision, enabling machines to perform tasks that traditionally required human intelligence. The key to harnessing AI's potential while mitigating its risks lies in responsible development, inclusive governance, and ongoing dialogue between technologists, policymakers, and society at large.
+
+Key Points:
+  1. However, the rapid advancement of AI also raises important ethical and societal concerns.
+  2. The key to harnessing AI's potential while mitigating its risks lies in responsible development, inclusive governance, and ongoing dialogue between technologists, policymakers, and society at large.
+  3. The Impact of Artificial Intelligence on Modern Society Artificial Intelligence (AI) has emerged as one of the most significant technological advances of the 21st century, fundamentally transforming how we work, communicate, and solve complex problems.
+  4. This revolutionary technology encompasses machine learning, deep learning, natural language processing, and computer vision, enabling machines to perform tasks that traditionally required human intelligence.
+  5. These applications have led to increased efficiency, reduced costs, and enhanced customer experiences across various industries.

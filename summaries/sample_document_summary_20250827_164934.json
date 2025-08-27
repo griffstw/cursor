@@ -1,0 +1,28 @@
+{
+  "file_path": "sample_document.txt",
+  "file_info": {
+    "name": "sample_document.txt",
+    "size": 2086,
+    "extension": ".txt",
+    "is_supported": true,
+    "modified_time": 1756313358.6371996
+  },
+  "processing_time": "2025-08-27T16:49:34.680685",
+  "summary": "The Impact of Artificial Intelligence on Modern Society Artificial Intelligence (AI) has emerged as one of the most significant technological advances of the 21st century, fundamentally transforming how we work, communicate, and solve complex problems. This revolutionary technology encompasses machine learning, deep learning, natural language processing, and computer vision, enabling machines to perform tasks that traditionally required human intelligence. The key to harnessing AI's potential while mitigating its risks lies in responsible development, inclusive governance, and ongoing dialogue between technologists, policymakers, and society at large.",
+  "key_points": [
+    "However, the rapid advancement of AI also raises important ethical and societal concerns.",
+    "The key to harnessing AI's potential while mitigating its risks lies in responsible development, inclusive governance, and ongoing dialogue between technologists, policymakers, and society at large.",
+    "The Impact of Artificial Intelligence on Modern Society Artificial Intelligence (AI) has emerged as one of the most significant technological advances of the 21st century, fundamentally transforming how we work, communicate, and solve complex problems.",
+    "This revolutionary technology encompasses machine learning, deep learning, natural language processing, and computer vision, enabling machines to perform tasks that traditionally required human intelligence.",
+    "These applications have led to increased efficiency, reduced costs, and enhanced customer experiences across various industries."
+  ],
+  "statistics": {
+    "original_words": 274,
+    "summary_words": 85,
+    "compression_ratio": 0.3102189781021898
+  },
+  "config": {
+    "method": "extractive",
+    "max_length": 150
+  }
+}
